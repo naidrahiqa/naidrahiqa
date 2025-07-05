@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Naidra! 👋
 
-<!--
-**naidrahiqa/naidrahiqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about web development, mobile development, cyber security, root android and love collaborating on interesting projects.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- 💻 Languages: JavaScript, Python, Java
+- 🌐 Web Technologies: React, Node.js, HTML/CSS
+- 🛠️ Tools: Git, Docker, VS Code
+- 🗄️ Databases: MongoDB, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I'm currently learning
+- Typescript, JavaScript, PHP, kotlin
+- Linux
+
+## 📫 How to reach me
+- Email: akufaqih1@gmail.com
+- Twitter: [Naidrahiqa](https://twitter.com/naidrahiqa)
+
+## ⚡ Fun fact
+I play hoyoverse games and kuro games like HSR, ZZZ, and WuWa 
+
+---
+
+⭐️ From [@naidrahiqa](https://github.com/naidrahiqa)
