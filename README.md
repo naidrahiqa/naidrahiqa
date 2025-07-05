@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm passionate about web development, mobile devel
 ## 📫 How to reach me
 - Email: akufaqih1@gmail.com
 - Twitter: [Naidrahiqa](https://twitter.com/naidrahiqa)
-- Instagram: [Naidrahiqa] (https://instagram.com/naidrahiqa)
+- Instagram: [Naidrahiqa](https://instagram.com/naidrahiqa)
 
 ## ⚡ Fun fact
 I play hoyoverse games and kuro games like HSR, ZZZ, and WuWa 
