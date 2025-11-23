@@ -1,19 +1,19 @@
 # Hi there, I'm Naidra! 👋
 
-Welcome to my GitHub profile! I'm passionate about web development, mobile development, cyber security, root android and love collaborating on interesting projects.
-
+Welcome to my GitHub profile! I'm passionate about networking, web development and cyber security.
 ## 🔧 Technologies & Tools
-- 💻 Languages: Java, Indonesian, English, and Japanese
+- 💻 Languages: Javanese, Indonesian, English, and Japanese
 - 🌐 Web Technologies: HTML/CSS
-- 🛠️ Tools: Git, VS Code
+- 🛠️ Tools: Git, VS Code, Antigravity, Cursor
 - 🗄️ Databases: ---
 
 ## 🌱 I'm currently learning
-- Typescript, JavaScript, PHP
+- HTML, CSS, Python, JavaScript, Go
 - Linux
+- Networking
 
 ## 📫 How to reach me
-- Email: akufaqih1@gmail.com
+- Email: akufaqih1@proton.me
 - Twitter: [Naidrahiqa](https://twitter.com/naidrahiqa)
 - Instagram: [Naidrahiqa](https://instagram.com/naidrahiqa)
 
