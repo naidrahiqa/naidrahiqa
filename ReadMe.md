@@ -17,6 +17,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=naidrahiqa&theme=default_repocard&hide_border=false&timezone=Asia/Jakarta" alt="GitHub Streak" />
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naidrahiqa&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naidrahiqa&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
 
 </div>
