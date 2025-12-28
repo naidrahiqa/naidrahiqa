@@ -11,7 +11,7 @@
 # 📊 GitHub Stats:
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=naidrahiqa&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naidrahiqa&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false&v=1" alt="GitHub Stats" />
   <br/>
   
   <img src="https://nirzak-streak-stats.vercel.app/?user=naidrahiqa&theme=default_repocard&hide_border=false&timezone=Asia/Jakarta" alt="GitHub Streak" />
