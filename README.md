@@ -113,9 +113,9 @@ Linux environment configuration and Cisco networking modules from LKS SMK (Lomba
 
 <div align="center">
 
-![naidrahiqa's GitHub stats](https://github-readme-stats.vercel.app/api?username=naidrahiqa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=94a3b8&ring_color=6366f1)
+![naidrahiqa's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=naidrahiqa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=94a3b8&ring_color=6366f1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naidrahiqa&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=94a3b8&langs_count=8)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naidrahiqa&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=94a3b8&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=naidrahiqa&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=f59e0b&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=475569)
 
