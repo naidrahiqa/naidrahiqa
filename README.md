@@ -71,7 +71,7 @@ Laravel-based POS system with role-based auth and Docker setup. IoT water qualit
 CTF writeups covering Crypto, Forensics, OSINT, and Reverse Engineering from school-level competitions.
 
 ### 🖥️ Sysadmin & Networking
-[![LKS ITNSA](https://img.shields.io/badge/LKS_ITNSA-Kab._Jepara_2024-8b5cf6?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/naidrahiqa/LKS-SMK-Ke-34-KAB.JEPARA-ITNSA.)
+[![LKS ITNSA](https://img.shields.io/badge/LKS_ITNSA-Kab._Jepara_2026-8b5cf6?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/naidrahiqa/LKS-SMK-Ke-34-KAB.JEPARA-ITNSA.)
 
 Linux environment configuration and Cisco networking modules from LKS SMK (Lomba Kompetensi Siswa) ITNSA competition.
 
