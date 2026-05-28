@@ -27,18 +27,10 @@
   <rect x="0" y="157" width="860" height="3" fill="url(#acc)" rx="2" opacity="0.4"/>
   <rect x="48" y="35" width="2" height="90" fill="url(#acc)" rx="1" opacity="0.7"/>
   <text x="70" y="78" font-family="Georgia,serif" font-size="38" font-weight="bold" fill="url(#tg)" letter-spacing="2">Faqih Ardian Syah</text>
-  <text x="71" y="102" font-family="'Courier New',monospace" font-size="12" fill="#475569" letter-spacing="6">@  n a i d r a h i q a</text>
+  <text x="71" y="102" font-family="'Courier New',monospace" font-size="12" fill="#475569" letter-spacing="6">@naidrahiqa</text>
   <rect x="70" y="112" width="260" height="1" fill="url(#acc)" opacity="0.35"/>
   <text x="70" y="130" font-family="'Courier New',monospace" font-size="11" fill="#64748b" letter-spacing="1">Jepara, Indonesia  ·  SMK     </text>
 </svg>
-
-<br/>
-
-![Visitors](https://komarev.com/ghpvc/?username=naidrahiqa&style=flat-square&color=6366f1&label=profile+views)
-[![GitHub followers](https://img.shields.io/github/followers/naidrahiqa?style=flat-square&color=6366f1&label=followers)](https://github.com/naidrahiqa?tab=followers)
-![Location](https://img.shields.io/badge/Jepara%2C_Indonesia-FF6B35?style=flat-square&logo=googlemaps&logoColor=white)
-![Student](https://img.shields.io/badge/SMK_Student-64748b?style=flat-square&logo=graduationcap&logoColor=white)
-
 </div>
 
 ---
