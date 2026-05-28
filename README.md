@@ -53,8 +53,7 @@
 
 ## About
 
-SMK student from Jepara, Indonesia. I build things across several domains — from low-level kernel development to web apps, CTF challenges, and network sysadmin. Currently the only active GKI 6.6 kernel developer targeting **Android 15 HyperOS 2.0** for Redmi 12 (fire).
-
+SMK student from Jepara, Indonesia. I build things across several domains — from low-level kernel development to web apps, CTF challenges, and network sysadmin.
 I work with AI as a pair programmer — Claude, Gemini, Antigravity, DeepSeek — treating them as genuine collaborators rather than just code generators.
 
 ---
@@ -131,19 +130,3 @@ Linux environment configuration and Cisco networking modules from LKS SMK (Lomba
 </div>
 
 ---
-
-## Currently Working On
-
-- **Epitaph Kernel v148+** — First successful SUSFS + HyperOS 2 build for Redmi 12. Polishing CI/CD, docs, and community presence.
-- **Epitaph Rescue Tool** — Go + Fyne Windows app for kernel recovery (connecting to workflow)
-- **Aqua Safe Monitor** — IoT water quality system for OPSI 2026 competition
-
----
-
-<div align="center">
-
-*Building at the intersection of low-level systems and modern software.*
-
-[![epitaph_kernel](https://img.shields.io/badge/⚡_Epitaph_Kernel-Latest_Release-6366f1?style=for-the-badge)](https://github.com/naidrahiqa/epitaph_kernel/releases/latest)
-
-</div>
