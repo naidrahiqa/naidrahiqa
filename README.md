@@ -65,8 +65,8 @@ Custom GKI 6.6 kernel for Redmi 12 (fire) with KernelSU-Next, SUSFS, TCP BBR, Ep
 Laravel-based POS system with role-based auth and Docker setup. IoT water quality monitoring app for OPSI 2026 competition built with React, TypeScript, and Supabase Realtime.
 
 ### 🔐 Security & CTF
-[![Skagara CTF](https://img.shields.io/badge/Skagara_CTF-Quals_Writeups-ef4444?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/naidrahiqa/skagara_cyber_security_qual_chall)
-[![Waskita CTF](https://img.shields.io/badge/Waskita_CTF-LKS_Jepara-f59e0b?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/naidrahiqa/waskita-manunggal-siber)
+[![Skagara CTF](https://img.shields.io/badge/Skagara_CTF-Quals_Challs-ef4444?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/naidrahiqa/skagara_cyber_security_qual_chall)
+[![Waskita CTF](https://img.shields.io/badge/Waskita_CTF-f59e0b?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/naidrahiqa/waskita-manunggal-siber)
 
 CTF writeups covering Crypto, Forensics, OSINT, and Reverse Engineering from school-level competitions.
 
