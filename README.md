@@ -29,15 +29,7 @@
   <text x="70" y="78" font-family="Georgia,serif" font-size="38" font-weight="bold" fill="url(#tg)" letter-spacing="2">Faqih Ardian Syah</text>
   <text x="71" y="102" font-family="'Courier New',monospace" font-size="12" fill="#475569" letter-spacing="6">@  n a i d r a h i q a</text>
   <rect x="70" y="112" width="260" height="1" fill="url(#acc)" opacity="0.35"/>
-  <text x="70" y="130" font-family="'Courier New',monospace" font-size="11" fill="#64748b" letter-spacing="1">Jepara, Indonesia  ·  SMK  ·  Full-spectrum dev</text>
-  <g transform="translate(570,30)">
-    <rect width="248" height="100" rx="8" fill="#ffffff" opacity="0.025" stroke="#334155" stroke-width="0.5"/>
-    <text x="16" y="22" font-family="'Courier New',monospace" font-size="10" fill="#6366f1" letter-spacing="1">// stack</text>
-    <text x="16" y="40" font-family="'Courier New',monospace" font-size="10" fill="#94a3b8">KERNEL  <tspan fill="#e2e8f0">GKI 6.6 · Bazel · C</tspan></text>
-    <text x="16" y="56" font-family="'Courier New',monospace" font-size="10" fill="#94a3b8">WEB     <tspan fill="#e2e8f0">Laravel · React · TS</tspan></text>
-    <text x="16" y="72" font-family="'Courier New',monospace" font-size="10" fill="#94a3b8">SEC     <tspan fill="#e2e8f0">CTF · Crypto · Forensics</tspan></text>
-    <text x="16" y="88" font-family="'Courier New',monospace" font-size="10" fill="#94a3b8">NET     <tspan fill="#e2e8f0">Linux · Cisco · ITNSA</tspan></text>
-  </g>
+  <text x="70" y="130" font-family="'Courier New',monospace" font-size="11" fill="#64748b" letter-spacing="1">Jepara, Indonesia  ·  SMK     </text>
 </svg>
 
 <br/>
