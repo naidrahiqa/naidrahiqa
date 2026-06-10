@@ -37,24 +37,31 @@
 
 ## About
 
-SMK student from Jepara, Indonesia. I build things across several domains — from low-level kernel development to web apps, CTF challenges, and network sysadmin.
-I work with AI as a pair programmer — Claude, Gemini, Antigravity, DeepSeek — treating them as genuine collaborators rather than just code generators.
+SMK student from Jepara, Indonesia. I build things across several domains — from low-level kernel development and KernelSU module engineering to web apps, CTF challenges, and network sysadmin.
+I work with AI as a pair programmer — Claude, Gemini, DeepSeek — treating them as genuine collaborators rather than just code generators.
 
 ---
 
 ## Projects
 
 ### 🔧 Systems & Kernel
-[![Epitaph Kernel](https://img.shields.io/badge/Epitaph_Kernel-GKI_6.6_·_Android_15-6366f1?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/naidrahiqa/epitaph_kernel)
-[![Device Tree](https://img.shields.io/badge/Device_Tree-Redmi_12_(fire)-475569?style=for-the-badge&logo=android&logoColor=white)](https://github.com/naidrahiqa/android_device_xiaomi_fire)
+[![Pollux Kernel](https://img.shields.io/badge/Pollux_Kernel-GKI_6.6_·_Android_15-6366f1?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/naidrahiqa/pollux_kernel_fire)
+[![Epitaph Kernel](https://img.shields.io/badge/Epitaph_Kernel-GKI_6.6_·_Android_15-8b5cf6?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/naidrahiqa/epitaph_kernel)
+[![CustomROM Fix Suite](https://img.shields.io/badge/CustomROM_Fix_Suite-KernelSU_Next_Modules-06b6d4?style=for-the-badge&logo=android&logoColor=white)](https://github.com/naidrahiqa/bug-free-octo-waddle)
 
-Custom GKI 6.6 kernel for Redmi 12 (fire) with KernelSU-Next, SUSFS, TCP BBR, Epitaph Schedutil Performance tuner, and full WiFi/Hotspot support. Built via multi-toolchain GitHub Actions CI/CD pipeline.
+Two custom GKI 6.6 kernels for Redmi 12 (fire) — Pollux and Epitaph — both with KernelSU-Next, SUSFS, TCP BBR, and performance tuning, built via multi-toolchain GitHub Actions CI/CD. Also ships a KernelSU Next module suite (Castorice Thermal, Hyacine Fuse, Waguri My Bini, Evanescia) covering charging control, storage I/O tuning, stability watchdog, and memory management — tested on HyperOS & Project Infinity X.
 
 ### 🌐 Web & App
 [![Kasirin Aja](https://img.shields.io/badge/Kasirin_Aja-POS_App-22c55e?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/naidrahiqa/kasirin_aja)
 [![Aqua Safe Monitor](https://img.shields.io/badge/Aqua_Safe_Monitor-OPSI_2026-06b6d4?style=for-the-badge&logo=react&logoColor=white)](https://github.com/naidrahiqa/aqua_safe_monitor_opsi_2026)
+[![ScoreWave](https://img.shields.io/badge/ScoreWave-juaravibecoding-f59e0b?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/naidrahiqa/ScoreWave)
 
-Laravel-based POS system with role-based auth and Docker setup. IoT water quality monitoring app for OPSI 2026 competition built with React, TypeScript, and Supabase Realtime.
+Laravel-based POS system with role-based auth and Docker setup. IoT water quality monitoring app for OPSI 2026 built with React, TypeScript, and Supabase Realtime. ScoreWave is a TypeScript competition project from #juaravibecoding.
+
+### 🤖 Automation
+[![Reboisasi](https://img.shields.io/badge/Reboisasi-JS_Automation-eab308?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/naidrahiqa/reboisasi)
+
+JavaScript automation bot with GitHub Actions CI/CD — 1000+ commits of iterative work.
 
 ### 🔐 Security & CTF
 [![Skagara CTF](https://img.shields.io/badge/Skagara_CTF-Quals_Challs-ef4444?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/naidrahiqa/skagara_cyber_security_qual_chall)
@@ -74,6 +81,7 @@ Linux environment configuration and Cisco networking modules from LKS SMK (Lomba
 **Kernel & Systems**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android_GKI-3DDC84?style=flat-square&logo=android&logoColor=white)
+![KernelSU](https://img.shields.io/badge/KernelSU_Next-6366f1?style=flat-square&logo=android&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -83,6 +91,7 @@ Linux environment configuration and Cisco networking modules from LKS SMK (Lomba
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
