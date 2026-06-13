@@ -45,7 +45,7 @@ I work with AI as a pair programmer — Claude, Gemini, DeepSeek — treating th
 ## Projects
 
 ### 🔧 Systems & Kernel
-[![Pollux Kernel](https://img.shields.io/badge/Pollux_Kernel-Legacy_4.19_·_Android_13 - 16-6366f1?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/naidrahiqa/pollux_kernel_fire)
+[![Pollux Kernel](https://img.shields.io/badge/Pollux_Kernel-Legacy_4.19_·_Android_16-6366f1?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/naidrahiqa/pollux_kernel_fire)
 [![Epitaph Kernel](https://img.shields.io/badge/Epitaph_Kernel-GKI_6.6_·_Android_15-8b5cf6?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/naidrahiqa/epitaph_kernel)
 [![CustomROM Fix Suite](https://img.shields.io/badge/CustomROM_Fix_Suite-KernelSU_Next_Modules-06b6d4?style=for-the-badge&logo=android&logoColor=white)](https://github.com/naidrahiqa/bug-free-octo-waddle)
 
