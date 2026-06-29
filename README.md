@@ -59,7 +59,7 @@ I work with AI as a pair programmer — Claude, Gemini, DeepSeek — treating th
 - **susf4ksu-legacy** — Backports SUSFS to older KernelSU trees.
 - **Cyrene Clang** — Custom LLVM/Clang toolchain for kernel builds.
 - **AnyKernel3** — Flashable zip packaging for kernel releases (forked from osm0sis).
-- **android_kernel_xiaomi_fire** — MT6768 base tree fork used for Pollux kernel development.
+
 
 ### 🌐 Web & App
 [![Kasirin Aja](https://img.shields.io/badge/Kasirin_Aja-POS_App-22c55e?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/naidrahiqa/kasirin_aja)
