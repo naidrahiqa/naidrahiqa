@@ -52,26 +52,31 @@ I work with AI as a pair programmer — Claude, Gemini, DeepSeek — treating th
 [![AnyKernel3](https://img.shields.io/badge/AnyKernel3-Flashable_Zip-0ea5e9?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/naidrahiqa/AnyKernel3)
 [![android_kernel_xiaomi_fire](https://img.shields.io/badge/android_kernel_xiaomi_fire-Base_Tree-0ea5e9?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/naidrahiqa/android_kernel_xiaomi_fire)
 
-Custom GKI 6.6 kernel for Redmi 12 (fire) — Epitaph — with KernelSU-Next, SUSFS, TCP BBR, and performance tuning, built via multi-toolchain GitHub Actions CI/CD. Ships a KernelSU Next module suite (Castorice Thermal, Hyacine Fuse, Waguri My Bini, Evanescia) covering charging control, storage I/O tuning, stability watchdog, and memory management — tested on HyperOS & Project Infinity X.
-
-susf4ksu-legacy backports SUSFS to older KernelSU trees. Cyrene Clang is a custom LLVM/Clang toolchain for kernel builds. AnyKernel3 provides flashable zip packaging for kernel releases. The fire base tree provides the MT6768 foundation used across fire kernels.
+- **Epitaph Kernel** — Custom GKI 6.6 kernel for Redmi 12 (fire) with KernelSU-Next, SUSFS, TCP BBR, and performance tuning, built via multi-toolchain GitHub Actions CI/CD.
+- **CustomROM Fix Suite** — KernelSU Next module suite (Castorice Thermal, Hyacine Fuse, Waguri My Bini, Evanescia) covering charging control, storage I/O tuning, stability watchdog, and memory management — tested on HyperOS & Project Infinity X.
+- **susf4ksu-legacy** — Backports SUSFS to older KernelSU trees.
+- **Cyrene Clang** — Custom LLVM/Clang toolchain for kernel builds.
+- **AnyKernel3** — Flashable zip packaging for kernel releases (forked from osm0sis).
+- **android_kernel_xiaomi_fire** — MT6768 base tree foundation used across fire kernels.
 
 ### 🌐 Web & App
 [![Kasirin Aja](https://img.shields.io/badge/Kasirin_Aja-POS_App-22c55e?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/naidrahiqa/kasirin_aja)
 [![Aqua Safe Monitor](https://img.shields.io/badge/Aqua_Safe_Monitor-OPSI_2026-06b6d4?style=for-the-badge&logo=react&logoColor=white)](https://github.com/naidrahiqa/aqua_safe_monitor_opsi_2026)
 [![ScoreWave](https://img.shields.io/badge/ScoreWave-juaravibecoding-f59e0b?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/naidrahiqa/ScoreWave)
 
-Laravel-based POS system with role-based auth and Docker setup. IoT water quality monitoring app for OPSI 2026 built with React, TypeScript, and Supabase Realtime. ScoreWave is a TypeScript competition project from #juaravibecoding.
+- **Kasirin Aja** — Laravel-based POS system with role-based auth and Docker setup.
+- **Aqua Safe Monitor** — IoT water quality monitoring app for OPSI 2026 built with React, TypeScript, and Supabase Realtime.
+- **ScoreWave** — TypeScript competition project from #juaravibecoding.
 
 ### 🤖 Automation
 [![Reboisasi](https://img.shields.io/badge/Reboisasi-JS_Automation-eab308?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/naidrahiqa/reboisasi)
 
-JavaScript automation bot with GitHub Actions CI/CD — 1000+ commits of iterative work.
+- **Reboisasi** — JavaScript automation bot with GitHub Actions CI/CD — 1000+ commits of iterative work.
 
 ### 🖥️ Sysadmin & Networking
 [![LKS ITNSA](https://img.shields.io/badge/LKS_ITNSA-Kab._Jepara_2026-8b5cf6?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/naidrahiqa/LKS-SMK-Ke-34-KAB.JEPARA-ITNSA.)
 
-Linux environment configuration and Cisco networking modules from LKS SMK (Lomba Kompetensi Siswa) ITNSA competition.
+- **LKS ITNSA** — Linux environment configuration and Cisco networking modules from LKS SMK (Lomba Kompetensi Siswa) ITNSA competition.
 
 ---
 
