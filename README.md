@@ -47,13 +47,13 @@ I work with AI as a pair programmer — Claude, Gemini, DeepSeek — treating th
 ### 🔧 Systems & Kernel
 [![Pollux Kernel](https://img.shields.io/badge/Pollux_Kernel-Legacy_4.19_·_Android_16-6366f1?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/naidrahiqa/android_kernel_xiaomi_fire)
 [![Epitaph Kernel](https://img.shields.io/badge/Epitaph_Kernel-GKI_6.6_·_Android_15-8b5cf6?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/naidrahiqa/epitaph_kernel)
-[![CustomROM Fix Suite](https://img.shields.io/badge/CustomROM_Fix_Suite-KernelSU_Next_Modules-06b6d4?style=for-the-badge&logo=android&logoColor=white)](https://github.com/naidrahiqa/bug-free-octo-waddle)
+[![CustomROM Fix Suite](https://img.shields.io/badge/CustomROM_Fix_Suite-KSU_Next_6_Modules-06b6d4?style=for-the-badge&logo=android&logoColor=white)](https://github.com/naidrahiqa/module-pack)
 [![susf4ksu-legacy](https://img.shields.io/badge/susf4ksu–legacy-SUSFS_Backport-7c3aed?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/naidrahiqa/susf4ksu-legacy)
 [![Cyrene Clang](https://img.shields.io/badge/Cyrene_Clang-Toolchain-6366f1?style=for-the-badge&logo=llvm&logoColor=white)](https://github.com/naidrahiqa/cyrene_clang)
 
 - **Pollux Kernel** — Legacy 4.19 kernel for Redmi 12 (fire) forked from android_kernel_xiaomi_fire, with KernelSU-Next, SUSFS, TCP BBR, and performance tuning.
 - **Epitaph Kernel** — Custom GKI 6.6 kernel for Redmi 12 (fire) with KernelSU-Next, SUSFS, TCP BBR, and performance tuning, built via multi-toolchain GitHub Actions CI/CD.
-- **CustomROM Fix Suite** — KernelSU Next module suite (Castorice Thermal, Hyacine Fuse, Waguri My Bini, Evanescia) covering charging control, storage I/O tuning, stability watchdog, and memory management — tested on HyperOS & Project Infinity X.
+- **CustomROM Fix Suite** — 6 KernelSU Next modules for Redmi 12 (Helio G88): VM tuning, storage I/O, crash prevention, device spoof, thermal unlock, and per-game GPU boost.
 - **susf4ksu-legacy** — Backports SUSFS to older KernelSU trees.
 - **Cyrene Clang** — Custom LLVM/Clang toolchain for kernel builds.
 
