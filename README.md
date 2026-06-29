@@ -45,36 +45,28 @@ I work with AI as a pair programmer — Claude, Gemini, DeepSeek — treating th
 ## Projects
 
 ### 🔧 Systems & Kernel
-[![Pollux Kernel](https://img.shields.io/badge/Pollux_Kernel-Legacy_4.19_·_Android_16-6366f1?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/naidrahiqa/pollux_kernel_fire)
 [![Epitaph Kernel](https://img.shields.io/badge/Epitaph_Kernel-GKI_6.6_·_Android_15-8b5cf6?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/naidrahiqa/epitaph_kernel)
 [![CustomROM Fix Suite](https://img.shields.io/badge/CustomROM_Fix_Suite-KernelSU_Next_Modules-06b6d4?style=for-the-badge&logo=android&logoColor=white)](https://github.com/naidrahiqa/bug-free-octo-waddle)
 [![susf4ksu-legacy](https://img.shields.io/badge/susf4ksu–legacy-SUSFS_Backport-7c3aed?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/naidrahiqa/susf4ksu-legacy)
-[![kpatchman](https://img.shields.io/badge/kpatchman-Kernel_Patch_Manager-22c55e?style=for-the-badge&logo=python&logoColor=white)](https://github.com/naidrahiqa/kpatchman)
 [![Cyrene Clang](https://img.shields.io/badge/Cyrene_Clang-Toolchain-6366f1?style=for-the-badge&logo=llvm&logoColor=white)](https://github.com/naidrahiqa/cyrene_clang)
+[![AnyKernel3](https://img.shields.io/badge/AnyKernel3-Flashable_Zip-0ea5e9?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/naidrahiqa/AnyKernel3)
 [![android_kernel_xiaomi_fire](https://img.shields.io/badge/android_kernel_xiaomi_fire-Base_Tree-0ea5e9?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/naidrahiqa/android_kernel_xiaomi_fire)
 
-Two custom GKI 6.6 kernels for Redmi 12 (fire) — Pollux and Epitaph — both with KernelSU-Next, SUSFS, TCP BBR, and performance tuning, built via multi-toolchain GitHub Actions CI/CD. Also ships a KernelSU Next module suite (Castorice Thermal, Hyacine Fuse, Waguri My Bini, Evanescia) covering charging control, storage I/O tuning, stability watchdog, and memory management — tested on HyperOS & Project Infinity X.
+Custom GKI 6.6 kernel for Redmi 12 (fire) — Epitaph — with KernelSU-Next, SUSFS, TCP BBR, and performance tuning, built via multi-toolchain GitHub Actions CI/CD. Ships a KernelSU Next module suite (Castorice Thermal, Hyacine Fuse, Waguri My Bini, Evanescia) covering charging control, storage I/O tuning, stability watchdog, and memory management — tested on HyperOS & Project Infinity X.
 
-susf4ksu-legacy backports SUSFS to older KernelSU trees. kpatchman manages patch stacks across kernel trees. Cyrene Clang is a custom LLVM/Clang toolchain for kernel builds. The fire base tree provides the MT6768 foundation used across fire kernels.
+susf4ksu-legacy backports SUSFS to older KernelSU trees. Cyrene Clang is a custom LLVM/Clang toolchain for kernel builds. AnyKernel3 provides flashable zip packaging for kernel releases. The fire base tree provides the MT6768 foundation used across fire kernels.
 
 ### 🌐 Web & App
 [![Kasirin Aja](https://img.shields.io/badge/Kasirin_Aja-POS_App-22c55e?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/naidrahiqa/kasirin_aja)
 [![Aqua Safe Monitor](https://img.shields.io/badge/Aqua_Safe_Monitor-OPSI_2026-06b6d4?style=for-the-badge&logo=react&logoColor=white)](https://github.com/naidrahiqa/aqua_safe_monitor_opsi_2026)
 [![ScoreWave](https://img.shields.io/badge/ScoreWave-juaravibecoding-f59e0b?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/naidrahiqa/ScoreWave)
-[![Kernel Pulse](https://img.shields.io/badge/Kernel_Pulse-Android_Monitor-f59e0b?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/naidrahiqa/kernel-pulse-android)
 
-Laravel-based POS system with role-based auth and Docker setup. IoT water quality monitoring app for OPSI 2026 built with React, TypeScript, and Supabase Realtime. ScoreWave is a TypeScript competition project from #juaravibecoding. Kernel Pulse is a Jetpack Compose app for real-time Android kernel monitoring via KernelSU Next.
+Laravel-based POS system with role-based auth and Docker setup. IoT water quality monitoring app for OPSI 2026 built with React, TypeScript, and Supabase Realtime. ScoreWave is a TypeScript competition project from #juaravibecoding.
 
 ### 🤖 Automation
 [![Reboisasi](https://img.shields.io/badge/Reboisasi-JS_Automation-eab308?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/naidrahiqa/reboisasi)
 
 JavaScript automation bot with GitHub Actions CI/CD — 1000+ commits of iterative work.
-
-### 🔐 Security & CTF
-[![Skagara CTF](https://img.shields.io/badge/Skagara_CTF-Quals_Challs-ef4444?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/naidrahiqa/skagara_cyber_security_qual_chall)
-[![Waskita CTF](https://img.shields.io/badge/Waskita_CTF-f59e0b?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/naidrahiqa/waskita-manunggal-siber)
-
-CTF writeups covering Crypto, Forensics, OSINT, and Reverse Engineering from school-level competitions.
 
 ### 🖥️ Sysadmin & Networking
 [![LKS ITNSA](https://img.shields.io/badge/LKS_ITNSA-Kab._Jepara_2026-8b5cf6?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/naidrahiqa/LKS-SMK-Ke-34-KAB.JEPARA-ITNSA.)
