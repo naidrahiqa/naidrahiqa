@@ -1,13 +1,5 @@
 # naidrahiqa
 
-> 🏴‍☠️ kernel · web · net · ctf 🏴‍☠️
-
-```txt
- ╦╔═╔═╗╔╦╗╔═╗  ╦  ╔═╗╔═╗╔═╗╔═╗
- ╠╩╗║ ║ ║ ╠═╣  ║  ║ ║╠═╝║  ╚═╗
- ╩ ╩╚═╝ ╩ ╩ ╩  ╩═╝╚═╝╩  ╚═╝╚═╝
-```
-
 - 🔭 currently working on **custom kernels & KSU modules**
 - 🌱 learning **deeper kernel internals & Rust for Linux**
 - 💬 ask me about **kernel dev, CTF, web, networking**
