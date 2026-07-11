@@ -1,14 +1,12 @@
----
-
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║     ███████╗ █████╗  ██████╗ ██╗██╗  ██╗                    ║
-║     ██╔════╝██╔══██╗██╔═══██╗██║██║  ██║                    ║
-║     █████╗  ███████║██║   ██║██║███████║                    ║
-║     ██╔══╝  ██╔══██║██║▄▄ ██║██║██╔══██║                    ║
-║     ██║     ██║  ██║╚██████╔╝██║██║  ██║                    ║
-║     ╚═╝     ╚═╝  ╚═╝ ╚══▀▀═╝ ╚═╝╚═╝  ╚═╝                    ║
+║  ██╗      █████╗ ███╗   ██╗██████╗ ███████╗██████╗           ║
+║  ██║     ██╔══██╗████╗  ██║██╔══██╗██╔════╝██╔══██╗          ║
+║  ██║     ███████║██╔██╗ ██║██║  ██║█████╗  ██████╔╝          ║
+║  ██║     ██╔══██║██║╚██╗██║██║  ██║██╔══╝  ██╔══██╗          ║
+║  ███████╗██║  ██║██║ ╚████║██████╔╝███████╗██║  ██║          ║
+║  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═╝          ║
 ║                                                              ║
 ║          🏴‍☠️  kernel · web · net · ctf  🏴‍☠️                 ║
 ║                                                              ║
@@ -54,7 +52,7 @@ philosophy:
 
 [![Pollux Kernel](https://img.shields.io/badge/Pollux_Kernel-Linux_4.19_·_fire-6366f1?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/naidrahiqa/pollux_kernel_xiaomi_fire)
 [![Epitaph Kernel](https://img.shields.io/badge/Epitaph_Kernel-GKI_6.6_·_fire-8b5cf6?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/naidrahiqa/epitaph_kernel_xiaomi_fire_GKI)
-[![Phrolova Kernel](https://img.shields.io/badge/Phrolova_Kernel-GKI_6.6_·_selene-06b6d4?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/naidrahiqa/phrolova_kernel_xiaomi_selene)
+[![Phrolova Kernel](https://img.shields.io/badge/Phrolova_Kernel-Linux_4.14_·_selene-06b6d4?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/naidrahiqa/phrolova_kernel_xiaomi_selene)
 [![CustomROM Fix Suite](https://img.shields.io/badge/CustomROM_Fix_Suite-KSU_Next_6_Modules-7c3aed?style=for-the-badge&logo=android&logoColor=white)](https://github.com/naidrahiqa/module-pack)
 [![susf4ksu-legacy](https://img.shields.io/badge/susf4ksu–legacy-SUSFS_Backport-ef4444?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/naidrahiqa/susf4ksu-legacy)
 
