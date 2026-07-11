@@ -1,7 +1,5 @@
 # naidrahiqa
 
-> 🏴‍☠️ kernel · web · net · ctf 🏴‍☠️
-
 ---
 
 ```yaml
