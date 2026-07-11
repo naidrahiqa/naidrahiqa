@@ -2,17 +2,16 @@
 
 > 🏴‍☠️ kernel · web · net · ctf 🏴‍☠️
 
-<div align="center">
+```txt
+ ╦╔═╔═╗╔╦╗╔═╗  ╦  ╔═╗╔═╗╔═╗╔═╗
+ ╠╩╗║ ║ ║ ╠═╣  ║  ║ ║╠═╝║  ╚═╗
+ ╩ ╩╚═╝ ╩ ╩ ╩  ╩═╝╚═╝╩  ╚═╝╚═╝
+```
 
-| | |
-|---|---|
-| **name** | Faqih Ardian Syah |
-| **from** | Jepara, Indonesia |
-| **status** | SMK Student |
-| **vibes** | kernel dev · web apps · CTF · networking |
-| **ai partner** | Claude, Gemini, DeepSeek |
-
-</div>
+- 🔭 currently working on **custom kernels & KSU modules**
+- 🌱 learning **deeper kernel internals & Rust for Linux**
+- 💬 ask me about **kernel dev, CTF, web, networking**
+- ⚡ fun fact: **I treat AI as a collaborator, not a crutch**
 
 ---
 
