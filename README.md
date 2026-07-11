@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naidrahiqa/naidrahiqa/main/assets/header-dark.svg">
-  <img src="https://raw.githubusercontent.com/naidrahiqa/naidrahiqa/main/assets/header-light.svg" width="100%" alt="header">
-</picture>
-
 ---
 
 ```ascii
@@ -57,11 +52,11 @@ philosophy:
 
 ### ⚙️ systems & kernel
 
-[![Pollux Kernel](https://github-readme-stats.vercel.app/api/pin/?username=naidrahiqa&repo=pollux_kernel_xiaomi_fire&theme=github_dark&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=94a3b8&border_color=1e293b&border_radius=8&hide_border=true)](https://github.com/naidrahiqa/pollux_kernel_xiaomi_fire)
-[![Epitaph Kernel](https://github-readme-stats.vercel.app/api/pin/?username=naidrahiqa&repo=epitaph_kernel_xiaomi_fire_GKI&theme=github_dark&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=94a3b8&border_color=1e293b&border_radius=8&hide_border=true)](https://github.com/naidrahiqa/epitaph_kernel_xiaomi_fire_GKI)
-[![Phrolova Kernel](https://github-readme-stats.vercel.app/api/pin/?username=naidrahiqa&repo=phrolova_kernel_xiaomi_selene&theme=github_dark&bg_color=0d1117&title_color=06b6d4&icon_color=8b5cf6&text_color=94a3b8&border_color=1e293b&border_radius=8&hide_border=true)](https://github.com/naidrahiqa/phrolova_kernel_xiaomi_selene)
-[![CustomROM Fix Suite](https://github-readme-stats.vercel.app/api/pin/?username=naidrahiqa&repo=module-pack&theme=github_dark&bg_color=0d1117&title_color=7c3aed&icon_color=8b5cf6&text_color=94a3b8&border_color=1e293b&border_radius=8&hide_border=true)](https://github.com/naidrahiqa/module-pack)
-[![susf4ksu-legacy](https://github-readme-stats.vercel.app/api/pin/?username=naidrahiqa&repo=susf4ksu-legacy&theme=github_dark&bg_color=0d1117&title_color=ef4444&icon_color=8b5cf6&text_color=94a3b8&border_color=1e293b&border_radius=8&hide_border=true)](https://github.com/naidrahiqa/susf4ksu-legacy)
+[![Pollux Kernel](https://img.shields.io/badge/Pollux_Kernel-Linux_4.19_·_fire-6366f1?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/naidrahiqa/pollux_kernel_xiaomi_fire)
+[![Epitaph Kernel](https://img.shields.io/badge/Epitaph_Kernel-GKI_6.6_·_fire-8b5cf6?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/naidrahiqa/epitaph_kernel_xiaomi_fire_GKI)
+[![Phrolova Kernel](https://img.shields.io/badge/Phrolova_Kernel-GKI_6.6_·_selene-06b6d4?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/naidrahiqa/phrolova_kernel_xiaomi_selene)
+[![CustomROM Fix Suite](https://img.shields.io/badge/CustomROM_Fix_Suite-KSU_Next_6_Modules-7c3aed?style=for-the-badge&logo=android&logoColor=white)](https://github.com/naidrahiqa/module-pack)
+[![susf4ksu-legacy](https://img.shields.io/badge/susf4ksu–legacy-SUSFS_Backport-ef4444?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/naidrahiqa/susf4ksu-legacy)
 
 > **Pollux** — Legacy 4.19 kernel for Redmi 12 (fire) · KernelSU-Next, SUSFS, TCP BBR, perf tuning
 >
@@ -77,10 +72,10 @@ philosophy:
 
 ### 🌐 web & app
 
-[![Kasirin Aja](https://github-readme-stats.vercel.app/api/pin/?username=naidrahiqa&repo=kasirin_aja&theme=github_dark&bg_color=0d1117&title_color=22c55e&icon_color=8b5cf6&text_color=94a3b8&border_color=1e293b&border_radius=8&hide_border=true)](https://github.com/naidrahiqa/kasirin_aja)
-[![Aqua Safe Monitor](https://github-readme-stats.vercel.app/api/pin/?username=naidrahiqa&repo=aqua_safe_monitor_opsi_2026&theme=github_dark&bg_color=0d1117&title_color=06b6d4&icon_color=8b5cf6&text_color=94a3b8&border_color=1e293b&border_radius=8&hide_border=true)](https://github.com/naidrahiqa/aqua_safe_monitor_opsi_2026)
-[![ScoreWave](https://github-readme-stats.vercel.app/api/pin/?username=naidrahiqa&repo=ScoreWave&theme=github_dark&bg_color=0d1117&title_color=f59e0b&icon_color=8b5cf6&text_color=94a3b8&border_color=1e293b&border_radius=8&hide_border=true)](https://github.com/naidrahiqa/ScoreWave)
-[![FetchVid](https://github-readme-stats.vercel.app/api/pin/?username=naidrahiqa&repo=FetchVid&theme=github_dark&bg_color=0d1117&title_color=00ADD8&icon_color=8b5cf6&text_color=94a3b8&border_color=1e293b&border_radius=8&hide_border=true)](https://github.com/naidrahiqa/FetchVid)
+[![Kasirin Aja](https://img.shields.io/badge/Kasirin_Aja-POS_App-22c55e?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/naidrahiqa/kasirin_aja)
+[![Aqua Safe Monitor](https://img.shields.io/badge/Aqua_Safe_Monitor-OPSI_2026-06b6d4?style=for-the-badge&logo=react&logoColor=white)](https://github.com/naidrahiqa/aqua_safe_monitor_opsi_2026)
+[![ScoreWave](https://img.shields.io/badge/ScoreWave-juaravibecoding-f59e0b?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/naidrahiqa/ScoreWave)
+[![FetchVid](https://img.shields.io/badge/FetchVid-Go_Tool-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/naidrahiqa/FetchVid)
 
 > **Kasirin Aja** — Laravel POS with role-based auth & Docker
 >
@@ -94,7 +89,7 @@ philosophy:
 
 ### 🤖 automation
 
-[![Reboisasi](https://github-readme-stats.vercel.app/api/pin/?username=naidrahiqa&repo=reboisasi&theme=github_dark&bg_color=0d1117&title_color=eab308&icon_color=8b5cf6&text_color=94a3b8&border_color=1e293b&border_radius=8&hide_border=true)](https://github.com/naidrahiqa/reboisasi)
+[![Reboisasi](https://img.shields.io/badge/Reboisasi-JS_Automation-eab308?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/naidrahiqa/reboisasi)
 
 > **Reboisasi** — JS automation bot · GitHub Actions CI/CD · 1000+ commits of iterative grind
 
@@ -102,7 +97,7 @@ philosophy:
 
 ### 🖥️ sysadmin & networking
 
-[![LKS ITNSA](https://github-readme-stats.vercel.app/api/pin/?username=naidrahiqa&repo=LKS-SMK-Ke-34-KAB.JEPARA-ITNSA.&theme=github_dark&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=94a3b8&border_color=1e293b&border_radius=8&hide_border=true)](https://github.com/naidrahiqa/LKS-SMK-Ke-34-KAB.JEPARA-ITNSA.)
+[![LKS ITNSA](https://img.shields.io/badge/LKS_ITNSA-Kab._Jepara_2026-8b5cf6?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/naidrahiqa/LKS-SMK-Ke-34-KAB.JEPARA-ITNSA.)
 
 > **LKS ITNSA** — Linux env config & Cisco networking · LKS SMK Kab. Jepara 2026
 
@@ -110,7 +105,7 @@ philosophy:
 
 ### 🔧 Cyrene Clang
 
-[![Cyrene Clang](https://github-readme-stats.vercel.app/api/pin/?username=naidrahiqa&repo=cyrene_clang&theme=github_dark&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=94a3b8&border_color=1e293b&border_radius=8&hide_border=true)](https://github.com/naidrahiqa/cyrene_clang)
+[![Cyrene Clang](https://img.shields.io/badge/Cyrene_Clang-Toolchain-6366f1?style=for-the-badge&logo=llvm&logoColor=white)](https://github.com/naidrahiqa/cyrene_clang)
 
 > Custom LLVM/Clang toolchain for kernel builds
 
