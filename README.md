@@ -22,38 +22,6 @@ ai_partner: [Claude, Gemini, DeepSeek]
 
 ---
 
-## ⚙️ projects
-
-<div align="center">
-
-**kernel**
-
-[![Pollux](https://img.shields.io/badge/Pollux-Linux_4.19-6366f1?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/naidrahiqa/pollux_kernel_xiaomi_fire)
-[![Epitaph](https://img.shields.io/badge/Epitaph-GKI_6.6-8b5cf6?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/naidrahiqa/epitaph_kernel_xiaomi_fire_GKI)
-[![Phrolova](https://img.shields.io/badge/Phrolova-Linux_4.14-06b6d4?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/naidrahiqa/phrolova_kernel_xiaomi_selene)
-[![susf4ksu](https://img.shields.io/badge/susf4ksu–legacy-SUSFS-ef4444?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/naidrahiqa/susf4ksu-legacy)
-
-**tooling**
-
-[![Cyrene Clang](https://img.shields.io/badge/Cyrene_Clang-Toolchain-6366f1?style=for-the-badge&logo=llvm&logoColor=white)](https://github.com/naidrahiqa/cyrene_clang)
-[![CustomROM Fix Suite](https://img.shields.io/badge/CustomROM_Fix_Suite-KSU_Modules-7c3aed?style=for-the-badge&logo=android&logoColor=white)](https://github.com/naidrahiqa/module-pack)
-
-**web & app**
-
-[![Kasirin Aja](https://img.shields.io/badge/Kasirin_Aja-POS_App-22c55e?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/naidrahiqa/kasirin_aja)
-[![Aqua Safe Monitor](https://img.shields.io/badge/Aqua_Safe_Monitor-OPSI_2026-06b6d4?style=for-the-badge&logo=react&logoColor=white)](https://github.com/naidrahiqa/aqua_safe_monitor_opsi_2026)
-[![ScoreWave](https://img.shields.io/badge/ScoreWave-juaravibecoding-f59e0b?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/naidrahiqa/ScoreWave)
-[![FetchVid](https://img.shields.io/badge/FetchVid-Go_Tool-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/naidrahiqa/FetchVid)
-
-**automation & sysadmin**
-
-[![Reboisasi](https://img.shields.io/badge/Reboisasi-JS_Bot-eab308?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/naidrahiqa/reboisasi)
-[![LKS ITNSA](https://img.shields.io/badge/LKS_ITNSA-Cisco_Kab._Jepara-8b5cf6?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/naidrahiqa/LKS-SMK-Ke-34-KAB.JEPARA-ITNSA.)
-
-</div>
-
----
-
 ## 📊 stats
 
 <div align="center">
