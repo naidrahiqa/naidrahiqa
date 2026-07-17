@@ -7,8 +7,6 @@
 
 ---
 
-## 📊 stats
-
 <div align="center">
 
 | | |
