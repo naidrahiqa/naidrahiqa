@@ -40,7 +40,7 @@ EOF
 ### 🏆 Achievements & Milestones
 
 | Event / Competition | Category | Year | Recognition & Highlights |
-|:---|:---:|:---:|:---|
+|:---|:---:|:---|:---|
 | 🥈 **LKS Kabupaten Jepara** | `ITNSA` | **2026** | **2nd Place (Juara 2)** — IT Network System Administration |
 | 🛡️ **POLRI CTF** | `CyberSecurity` | **2026** | National Cyber Security & Penetration Testing Competition |
 | 🛡️ **Techcomfest CTF** | `CyberSecurity` | **2026** | National CTF Competition |
@@ -63,37 +63,6 @@ EOF
 | **Web & App Stack** | <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Wails_Go-DF0000?style=flat-square&logo=wails&logoColor=white" /> |
 
 </div>
-
----
-
-### 🚀 Featured Ecosystem & Projects
-
-#### ⚡ Android Kernel & Low-Level Toolchains
-| Project | Target / Tech | Description |
-|:---|:---:|:---|
-| 🧬 [**pollux_kernel_xiaomi_fire**](https://github.com/naidrahiqa/pollux_kernel_xiaomi_fire) | `Redmi 12 (fire)` • `C` | Custom Android Kernel for Redmi 12 Fire T/U (MIUI 14 & HyperOS 1) with tuned scheduler & latency optimizations. |
-| 🛡️ [**epitaph_kernel_xiaomi_fire_GKI**](https://github.com/naidrahiqa/epitaph_kernel_xiaomi_fire_GKI) | `GKI 6.6` • `Shell` | Next-generation GKI 6.6 custom kernel pipeline & patches tailored for Redmi 12 (gaming & daily use). |
-| 🚀 [**phrolova_kernel_xiaomi_selene**](https://github.com/naidrahiqa/phrolova_kernel_xiaomi_selene) | `Redmi 10 (selene)` • `C` | Custom kernel for Xiaomi Redmi 10 (vendor R) optimized for sustained performance & battery efficiency. |
-| ⚙️ [**Oronyx_Clang**](https://github.com/naidrahiqa/Oronyx_Clang) | `LLVM/Clang` • `Toolchain` | Highly optimized custom LLVM/Clang toolchain featuring PGO, ThinLTO, and BOLT for Android kernels. |
-| 🔒 [**susf4ksu-legacy**](https://github.com/naidrahiqa/susf4ksu-legacy) | `KernelSU` • `SUSFS` | Comprehensive backport of SUSFS (Stealth Userspace File System) for legacy / non-GKI Android kernels. |
-
-#### 🧩 KernelSU Next Modules Ecosystem
-| Module | Focus Area | Capability |
-|:---|:---:|:---|
-| 🧠 [**evanescia-memory**](https://github.com/naidrahiqa/evanescia-memory) | Memory & ZRAM | Advanced VM tuning, ZRAM compression algorithms & aggressive dirty page writeback optimizations. |
-| ⚡ [**hyacine-io**](https://github.com/naidrahiqa/hyacine-io) | Storage / FUSE | Storage I/O throughput optimizer & FUSE passthrough enhancer for snappy app launch times. |
-| 🎯 [**spoof-fierce**](https://github.com/naidrahiqa/spoof-fierce) | Zygisk / WebUI | High-performance device spoofing & per-game FPS unlock accompanied by an interactive WebUI. |
-| 🛡️ [**kairitsu-safe**](https://github.com/naidrahiqa/kairitsu-safe) | Watchdog | Automated bootloop protection, crash recovery watchdog, and module failsafe switch. |
-| ❄️ [**h-thermal**](https://github.com/naidrahiqa/h-thermal) | Thermal Control | Universal thermal controller supporting both Qualcomm & MediaTek chipsets for balanced throttling. |
-| 🔊 [**multi-audio**](https://github.com/naidrahiqa/multi-audio) | Audio Engine | Concurrent audio playback with granular per-application volume routing via WebUI. |
-
-#### 🌊 Hardware, IoT & Software Engineering
-| Project | Stack | Highlights |
-|:---|:---:|:---|
-| 🌊 [**aqua-safe-monitor**](https://github.com/naidrahiqa/aqua-safe-monitor) | `TypeScript` • `Kotlin` • `IoT` | Competition-grade water quality monitoring IoT ecosystem (Web App + Android native app) for **OPSI 2026**. |
-| 📥 [**FetchVid**](https://github.com/naidrahiqa/FetchVid) | `Go` • `Wails` | High-speed desktop batch video downloader for Reels, TikTok, and Instagram (single binary). |
-| 🔍 [**catchido**](https://github.com/naidrahiqa/catchido) | `Python` | Media crawler & scraper engine with perceptual image hashing and smart deduplication. |
-| 🏆 [**ScoreWave**](https://github.com/naidrahiqa/ScoreWave) | `TypeScript` | Real-time dynamic scoring and interactive dashboard project. |
 
 ---
 
