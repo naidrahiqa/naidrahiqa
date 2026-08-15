@@ -74,42 +74,24 @@
 
 ---
 
-### 🌐 Let's Connect
+### 💼 Professional Contact
 
 <div align="center">
 
   <a href="https://naidrahiqa.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-naidrahiqa.vercel.app-38BDF8?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-naidrahiqa.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="mailto:faqihardiansyah89@gmail.com">
     <img src="https://img.shields.io/badge/Email-faqihardiansyah89%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
+  <a href="https://linkedin.com/in/naidrahiqa">
+    <img src="https://img.shields.io/badge/LinkedIn-naidrahiqa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
   <a href="https://t.me/naidrahiqa">
     <img src="https://img.shields.io/badge/Telegram-@naidrahiqa-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  &nbsp;
-  <a href="https://discord.com/users/naidrahiqa">
-    <img src="https://img.shields.io/badge/Discord-@naidrahiqa-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://linkedin.com/in/naidrahiqa">
-    <img src="https://img.shields.io/badge/LinkedIn-naidrahiqa-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/naidrahiqa">
-    <img src="https://img.shields.io/badge/Instagram-@naidrahiqa-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="https://threads.net/@naidrahiqa">
-    <img src="https://img.shields.io/badge/Threads-@naidrahiqa-000000?style=flat-square&logo=threads&logoColor=white" alt="Threads" />
-  </a>
-  &nbsp;
-  <a href="https://wa.me/62895412664654">
-    <img src="https://img.shields.io/badge/WhatsApp-+62%20895--4126--64654-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 
   <br/><br/>
