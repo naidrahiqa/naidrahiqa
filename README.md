@@ -22,7 +22,7 @@
 ### ⚡ Quick Overview
 
 - 🎓 **Background**: TKJ Student based in **Jepara, Indonesia**
-- ⚙️ **Specialization**: Android Custom Kernels (GKI 6.6 / 4.19), KernelSU/SUSFS Modules & Low-Level Tuning
+- ⚙️ **Specialization**: Android Custom Kernels (GKI 6.6 / 4.19 / 4.14), KernelSU/SUSFS Modules & Low-Level Tuning
 - 🔬 **Current Research**: Building & bringing **Aqua Safe Monitor** (IoT) to **OPSI 2026**
 - 🛡️ **Security & SysAdmin**: Active CTF player & IT Network Systems Administration (LKS 2nd Place)
 - ⚡ **Philosophy**: *"I treat AI as a collaborator, not a crutch. Build fast, break limits."*
