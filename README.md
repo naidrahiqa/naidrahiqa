@@ -42,13 +42,40 @@
 
 ---
 
+### 💻 Featured Projects
+
+| Project | Description | Tech Stack |
+|:---|:---|:---|
+| [**mtk-unbrick**](https://github.com/naidrahiqa/mtk-unbrick) | One-click unbrick tool for Xiaomi MTK devices via BROM mode | Python, USB |
+| [**Oronyx_Clang**](https://github.com/naidrahiqa/Oronyx_Clang) | Optimized LLVM/Clang toolchain (PGO, ThinLTO, BOLT) for custom Android kernels | LLVM, Bash |
+| [**Aqua Safe Monitor**](https://github.com/naidrahiqa/aqua-safe-monitor) | Water telemetry monitoring WebApp for OPSI 2026 | Next.js, IoT |
+| [**KTI Dashboard**](https://github.com/naidrahiqa/kti-dashboard) | Absensi, manajemen kas & keaktifan KTI | Next.js, Google Sheets |
+| [**OpenGit**](https://github.com/naidrahiqa/OpenGit) | Git workflow tool — task board via GitHub Issues & PRs | Python, GitHub API |
+| [**Compress Tool**](https://github.com/naidrahiqa/compress_tool) | Batch image & video compressor | Python, Tkinter, FFmpeg |
+| [**RK R75 Recovery**](https://github.com/naidrahiqa/rk-r75-wired-recovery) | Flash dead RK R75 keyboard via ST-Link SWD | Python, pyocd |
+| [**Reboisasi**](https://github.com/naidrahiqa/reboisasi) | Aplikasi reboisasi | JavaScript |
+| [**EndeavourOS Rice**](https://github.com/naidrahiqa/endeavouros-rice) | Hyprland + Material You + blur + SDDM sync | Hyprland, Wayland |
+
+---
+
+### 🔧 Custom Kernel Projects
+
+| Kernel | Device | Base | Status |
+|:---|:---|:---:|:---:|
+| [**Phrolova**](https://github.com/naidrahiqa/phrolova_kernel_xiaomi_selene) | Xiaomi Redmi 10 (Selene) | Vendor R | ✅ Maintained |
+| [**Mochi**](https://github.com/naidrahiqa/mochi_kernel_xiaomi_selene) | Xiaomi Redmi 10 (Selene) | T Vendor | ✅ Maintained |
+| [**Pollux**](https://github.com/naidrahiqa/pollux_kernel_xiaomi_fire) | Redmi 12 Fire T/U | MIUI 14 & HyperOS 1 | ✅ Maintained |
+| [**Epitaph GKI**](https://github.com/naidrahiqa/epitaph_kernel_xiaomi_fire_GKI) | Redmi 12 Fire | GKI 6.6 | ✅ Maintained |
+
+---
+
 ### 🛠️ Tech Arsenal
 
 <div align="center">
 
 | Domain | Technologies |
 |:---|:---|
-| **Kernel & Low-Level** | <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/KernelSU_Next-3DDC84?style=flat-square&logo=android&logoColor=black" /> <img src="https://img.shields.io/badge/SUSFS-8b5cf6?style=flat-square&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/LLVM%2FClang-BOLT%2FPGO-FF4500?style=flat-square&logo=llvm&logoColor=white" /> <img src="https://img.shields.io/badge/Zygisk-00f0ff?style=flat-square&logo=cplusplus&logoColor=black" /> |
+| **Kernel & Low-Level** | <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/KernelSU_Next-3DDC84?style=flat-square&logo=android&logoColor=black" /> <img src="https://img.shields.io/badge/SUSFS-8b5cf6?style=flat-square&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/LLVM%2FClang-BOLT%2FPGO-FF4500?style=flat-square&logo=llvm&logoColor=white" /> |
 | **Languages** | <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /> |
 | **IoT & Systems** | <img src="https://img.shields.io/badge/ESP32%20%2F%20Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" /> <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> |
 | **Network & Security** | <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/MikroTik-EE3124?style=flat-square&logo=mikrotik&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white" /> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" /> |
