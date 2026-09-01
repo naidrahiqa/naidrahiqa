@@ -38,6 +38,20 @@
 | 🛡️ **Techcomfest CTF** | CyberSecurity | 2026 | CTF Competitor | [📄](https://lh3.googleusercontent.com/d/1QkYDBvEaBy8hkUpGU7KyJ_fkVaOeQX-E=s0) |
 | 🛡️ **IONIC National CTF** | CyberSecurity | 2025 | National CTF Competitor | [📄](https://lh3.googleusercontent.com/d/1fLg_vFmMiQdtb4p40geOrbj0sp_p4AXA=s0) |
 
+<br/>
+
+<div align="center">
+
+| <img src="https://lh3.googleusercontent.com/d/1xDfpyip_FWbTjWvUGuxJxz2mpq9w_oW" width="400" alt="LKS Certificate" /> | <img src="https://lh3.googleusercontent.com/d/1_VkpHgpV6s7FjRYAPqOZ59_h0kdhNEvd=s0" width="400" alt="BDT Certificate" /> |
+|:---:|:---:|
+| **LKS Kabupaten Jepara 2026** | **BDT 2026** |
+
+| <img src="https://lh3.googleusercontent.com/d/1QkYDBvEaBy8hkUpGU7KyJ_fkVaOeQX-E=s0" width="400" alt="Techcomfest Certificate" /> | <img src="https://lh3.googleusercontent.com/d/1fLg_vFmMiQdtb4p40geOrbj0sp_p4AXA=s0" width="400" alt="IONIC Certificate" /> |
+|:---:|:---:|
+| **Techcomfest 2026** | **IONIC 2025** |
+
+</div>
+
 ---
 
 ### 💻 Featured Projects
