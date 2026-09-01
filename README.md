@@ -90,7 +90,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naidrahiqa&theme=github-compact&bg_color=0d1117&color=38bdf8&line=818cf8&point=38bdf8&area=true&hide_border=true&radius=8" width="98%" alt="naidrahiqa's Activity Graph" />
+  <img src="https://ghchart.rshah.org/naidrahiqa" width="98%" alt="naidrahiqa's Contribution Chart" />
 </div>
 
 ---
