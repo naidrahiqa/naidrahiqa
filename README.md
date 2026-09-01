@@ -23,7 +23,7 @@
 
 - 🎓 **Background**: TKJ Student based in **Jepara, Indonesia**
 - ⚙️ **Specialization**: Android Custom Kernels (GKI 6.6 / 4.19 / 4.14), KernelSU/SUSFS Modules & Low-Level Tuning
-- 🔬 **Current Research**: Building & bringing **Aqua Safe Monitor** (IoT) to **OPSI 2026**
+- 🔬 **Current Focus**: Developing custom kernel for Redmi 10 2022 (selene) & Linux tools
 - 🛡️ **Security & SysAdmin**: Active CTF player & IT Network Systems Administration (LKS 2nd Place)
 - ⚡ **Philosophy**: *"I treat AI as a collaborator, not a crutch. Build fast, break limits."*
 
@@ -34,10 +34,8 @@
 | Event | Field | Year | Result / Status |
 |:---|:---:|:---:|:---|
 | 🥈 **LKS Kabupaten Jepara** | ITNSA | 2026 | **Juara 2 (2nd Place)** — IT Network System Administration |
-| 🌊 **OPSI 2026** | IoT & Research | 2026 | **Contender** — *Aqua Safe Monitor* (Water Telemetry) |
-| 🛡️ **POLRI CTF** | CyberSecurity | 2026 | CTF Competitor |
+| 📜 **Badan Ekraf Digital Talent (BDT)** | Training | 2026 | **Pelatihan** — Digital Talent Training |
 | 🛡️ **Techcomfest CTF** | CyberSecurity | 2026 | CTF Competitor |
-| 🛡️ **Waskita Manunggal Siber** | CyberSecurity | 2026 | National Cyber Defense Competitor |
 | 🛡️ **IONIC National CTF** | CyberSecurity | 2025 | National CTF Competitor |
 
 ---
@@ -79,7 +77,7 @@
 | **Languages** | <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /> |
 | **IoT & Systems** | <img src="https://img.shields.io/badge/ESP32%20%2F%20Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" /> <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> |
 | **Network & Security** | <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/MikroTik-EE3124?style=flat-square&logo=mikrotik&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white" /> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" /> |
-| **Web & Apps** | <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Wails_Go-DF0000?style=flat-square&logo=wails&logoColor=white" /> |
+| **Web & Apps** | <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Wails_Go-DF0000?style=flat-square&logo=wails&logoColor=white" /> |
 
 </div>
 
@@ -113,12 +111,32 @@
     <img src="https://img.shields.io/badge/Email-faqihardiansyah89%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
+  <a href="https://instagram.com/naidrahiqa">
+    <img src="https://img.shields.io/badge/Instagram-@naidrahiqa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://threads.net/@naidrahiqa">
+    <img src="https://img.shields.io/badge/Threads-@naidrahiqa-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/naidrahiqa">
+    <img src="https://img.shields.io/badge/Discord-@naidrahiqa-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  &nbsp;
   <a href="https://linkedin.com/in/naidrahiqa">
     <img src="https://img.shields.io/badge/LinkedIn-naidrahiqa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
+  <a href="https://github.com/naidrahiqa">
+    <img src="https://img.shields.io/badge/GitHub-naidrahiqa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
   <a href="https://t.me/naidrahiqa">
     <img src="https://img.shields.io/badge/Telegram-@naidrahiqa-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/62895412664654">
+    <img src="https://img.shields.io/badge/WhatsApp-+62%20895-4126-64654-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 
   <br/><br/>
