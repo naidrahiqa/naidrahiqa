@@ -45,10 +45,8 @@
 | Project | Description | Tech Stack |
 |:---|:---|:---|
 | [**mtk-unbrick**](https://github.com/naidrahiqa/mtk-unbrick) | One-click unbrick tool for Xiaomi MTK devices via BROM mode | Python, USB |
-| [**Oronyx_Clang**](https://github.com/naidrahiqa/Oronyx_Clang) | Optimized LLVM/Clang toolchain (PGO, ThinLTO, BOLT) for custom Android kernels | LLVM, Bash |
 | [**Aqua Safe Monitor**](https://github.com/naidrahiqa/aqua-safe-monitor) | Water telemetry monitoring WebApp for OPSI 2026 | Next.js, IoT |
 | [**KTI Dashboard**](https://github.com/naidrahiqa/kti-dashboard) | Absensi, manajemen kas & keaktifan KTI | Next.js, Google Sheets |
-| [**OpenGit**](https://github.com/naidrahiqa/OpenGit) | Git workflow tool — task board via GitHub Issues & PRs | Python, GitHub API |
 | [**Compress Tool**](https://github.com/naidrahiqa/compress_tool) | Batch image & video compressor | Python, Tkinter, FFmpeg |
 | [**RK R75 Recovery**](https://github.com/naidrahiqa/rk-r75-wired-recovery) | Flash dead RK R75 keyboard via ST-Link SWD | Python, pyocd |
 | [**Reboisasi**](https://github.com/naidrahiqa/reboisasi) | Aplikasi reboisasi | JavaScript |
