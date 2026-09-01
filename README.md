@@ -29,6 +29,22 @@
 
 ---
 
+### 🎲 Fun Facts
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&customColorList=6,11,16&height=80&section=what&text=🐧%20Linux%20Daily%20Driver&fontSize=18&fontColor=38bdf8&desc=EndeavourOS%20%2B%20Hyprland%20Rice&descFontSize=12&descAlignY=60" width="32%" alt="Linux Daily Driver" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&customColorList=6,11,16&height=80&section=what&text=🎮%20ML%20Player&fontSize=18&fontColor=818cf8&desc=Juara%20Harapan%20Kartinians%202026&descFontSize=12&descAlignY=60" width="32%" alt="ML Player" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&customColorList=6,11,16&height=80&section=what&text=🔧%20Nickname%3A%20Mbah&fontSize=18&fontColor=f472b6&desc=Don%27t%20ask%20why&descFontSize=12&descAlignY=60" width="32%" alt="Nickname Mbah" />
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&customColorList=6,11,16&height=80&section=what&text=🧠%20Low-Level%20Nerd&fontSize=18&fontColor=34d399&desc=Kernel%2C%20IoT%2C%20Security&descFontSize=12&descAlignY=60" width="32%" alt="Low-Level Nerd" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&customColorList=6,11,16&height=80&section=what&text=🏠%20Jepara%2C%20ID&fontSize=18&fontColor=fbbf24&desc=Kota%20Ukiran&descFontSize=12&descAlignY=60" width="32%" alt="Jepara" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&customColorList=6,11,16&height=80&section=what&text=⚡%20Night%20Owl&fontSize=18&fontColor=a78bfa&desc=Best%20code%20happens%20at%202AM&descFontSize=12&descAlignY=60" width="32%" alt="Night Owl" />
+
+</div>
+
+---
+
 ### 🏆 Key Competitions & Milestones
 
 | Event | Field | Year | Result / Status | Certificate |
@@ -82,6 +98,12 @@
 ---
 
 ### 📊 GitHub Activity & Metrics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naidrahiqa&theme=tokyonight&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=818cf8&currStreakLabel=38bdf8&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&line=818cf8&acute=38bdf8" width="70%" alt="GitHub Streak" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naidrahiqa&theme=tokyonight" height="165" alt="GitHub Stats" />
