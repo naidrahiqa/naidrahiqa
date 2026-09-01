@@ -31,12 +31,12 @@
 
 ### 🏆 Key Competitions & Milestones
 
-| Event | Field | Year | Result / Status |
-|:---|:---:|:---:|:---|
-| 🥈 **LKS Kabupaten Jepara** | ITNSA | 2026 | **Juara 2 (2nd Place)** — IT Network System Administration |
-| 📜 **Badan Ekraf Digital Talent (BDT)** | Training | 2026 | **Pelatihan** — Digital Talent Training |
-| 🛡️ **Techcomfest CTF** | CyberSecurity | 2026 | CTF Competitor |
-| 🛡️ **IONIC National CTF** | CyberSecurity | 2025 | National CTF Competitor |
+| Event | Field | Year | Result / Status | Certificate |
+|:---|:---:|:---:|:---|:---:|
+| 🥈 **LKS Kabupaten Jepara** | ITNSA | 2026 | **Juara 2 (2nd Place)** — IT Network System Administration | [📄](https://lh3.googleusercontent.com/d/1xDfpyip_FWbTjWvUGuxJxz2mpwq9w_oW) |
+| 📜 **Badan Ekraf Digital Talent (BDT)** | Training | 2026 | **Pelatihan** — Digital Talent Training | [📄](https://lh3.googleusercontent.com/d/1_VkpHgpV6s7FjRYAPqOZ59_h0kdhNEvd=s0) |
+| 🛡️ **Techcomfest CTF** | CyberSecurity | 2026 | CTF Competitor | [📄](https://lh3.googleusercontent.com/d/1QkYDBvEaBy8hkUpGU7KyJ_fkVaOeQX-E=s0) |
+| 🛡️ **IONIC National CTF** | CyberSecurity | 2025 | National CTF Competitor | [📄](https://lh3.googleusercontent.com/d/1fLg_vFmMiQdtb4p40geOrbj0sp_p4AXA=s0) |
 
 ---
 
