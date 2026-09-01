@@ -38,19 +38,26 @@
 | 🛡️ **Techcomfest CTF** | CyberSecurity | 2026 | CTF Competitor | [📄](https://lh3.googleusercontent.com/d/1QkYDBvEaBy8hkUpGU7KyJ_fkVaOeQX-E=s0) |
 | 🛡️ **IONIC National CTF** | CyberSecurity | 2025 | National CTF Competitor | [📄](https://lh3.googleusercontent.com/d/1fLg_vFmMiQdtb4p40geOrbj0sp_p4AXA=s0) |
 
-<br/>
+---
 
-<div align="center">
+### 📜 Certificates
 
-| <img src="https://lh3.googleusercontent.com/d/1xDfpyip_FWbTjWvUGuxJxz2mpq9w_oW" width="400" alt="LKS Certificate" /> | <img src="https://lh3.googleusercontent.com/d/1_VkpHgpV6s7FjRYAPqOZ59_h0kdhNEvd=s0" width="400" alt="BDT Certificate" /> |
-|:---:|:---:|
-| **LKS Kabupaten Jepara 2026** | **BDT 2026** |
-
-| <img src="https://lh3.googleusercontent.com/d/1QkYDBvEaBy8hkUpGU7KyJ_fkVaOeQX-E=s0" width="400" alt="Techcomfest Certificate" /> | <img src="https://lh3.googleusercontent.com/d/1fLg_vFmMiQdtb4p40geOrbj0sp_p4AXA=s0" width="400" alt="IONIC Certificate" /> |
-|:---:|:---:|
-| **Techcomfest 2026** | **IONIC 2025** |
-
-</div>
+| # | Event | Type | Year | Link |
+|:---:|:---|:---|:---:|:---:|
+| 1 | 🥈 **LKS Kabupaten Jepara** | Competition | 2026 | [📄](https://lh3.googleusercontent.com/d/1xDfpyip_FWbTjWvUGuxJxz2mpq9w_oW) |
+| 2 | 📜 **BDT 2026 — Pelatihan** | Training | 2026 | [📄](https://lh3.googleusercontent.com/d/1_VkpHgpV6s7FjRYAPqOZ59_h0kdhNEvd=s0) |
+| 3 | 🛡️ **IONIC 2025** | Competition | 2025 | [📄](https://lh3.googleusercontent.com/d/1fLg_vFmMiQdtb4p40geOrbj0sp_p4AXA=s0) |
+| 4 | 🛡️ **Techcomfest 2026** | Competition | 2026 | [📄](https://lh3.googleusercontent.com/d/1QkYDBvEaBy8hkUpGU7KyJ_fkVaOeQX-E=s0) |
+| 5 | 🛡️ **Waskita Manunggal Siber 2026** | Competition | 2026 | [📄](https://lh3.googleusercontent.com/d/1H470IBtNMu4JgPRgKJB3kFM7swo0jiiH=s0) |
+| 6 | 🛡️ **POLRI CTF** | Competition | 2026 | [📄](https://lh3.googleusercontent.com/d/14eNfeFAjUyayV-pCRbnhq9-FN4vm90vN=s0) |
+| 7 | 🎤 **AI Assistant Tools For Pentest** | Seminar | 2026 | [📄](https://lh3.googleusercontent.com/d/1RBkUs_GELWM66ofF54DeDtl68WkZDBSG=s0) |
+| 8 | 📜 **BDT 2026 — Bootcamp** | Training | 2026 | [📄](https://lh3.googleusercontent.com/d/15R9WcAcBAmWoacvbOszG1CIdctSrmZNb=s0) |
+| 9 | 🤖 **Belajar Dasar AI** | Training | 2025 | [📄](https://drive.google.com/file/d/1IcJjM5VOui4nwmK4TpuTt4r_-T7LK3PK/view) |
+| 10 | 🐧 **Belajar Linux dari Nol** | Training | 2026 | [📄](https://drive.google.com/file/d/1yBSOSNsmXGagTF0SsNdLoNZwplI-7hO7/view) |
+| 11 | 🌐 **Cisco Dasar** | Training | 2026 | [📄](https://drive.google.com/file/d/1l6WITRwO3e3v1kIkEm0vHw6mDCozI9IH/view) |
+| 12 | 💰 **Financial Literacy** | Seminar | 2025 | [📄](https://drive.google.com/file/d/1FmlaskOTOyKZt69E18JwZFfwxETkJ4tw/view) |
+| 13 | 🌐 **Jaringan Komputer Dasar** | Training | 2026 | [📄](https://drive.google.com/file/d/112wsjLS_CxgIB2HS8GkVeaUbNwm1DpYc/view) |
+| 14 | 🎮 **Juara Harapan Kartinians** | Competition | 2026 | [📄](https://drive.google.com/file/d/1KfGw5owtokP4L2718-UZf4qV6Rg74u_i/view) |
 
 ---
 
