@@ -34,22 +34,11 @@
 | Event | Field | Year | Result / Status | Certificate |
 |:---|:---:|:---:|:---|:---:|
 | 🥈 **LKS Kabupaten Jepara** | ITNSA | 2026 | **Juara 2 (2nd Place)** — IT Network System Administration | [📄](https://lh3.googleusercontent.com/d/1xDfpyip_FWbTjWvUGuxJxz2mpwq9w_oW) |
-| 📜 **Badan Ekraf Digital Talent (BDT)** | Training | 2026 | **Pelatihan** — Digital Talent Training | [📄](https://lh3.googleusercontent.com/d/1_VkpHgpV6s7FjRYAPqOZ59_h0kdhNEvd=s0) |
-| 🛡️ **Techcomfest CTF** | CyberSecurity | 2026 | CTF Competitor | [📄](https://lh3.googleusercontent.com/d/1QkYDBvEaBy8hkUpGU7KyJ_fkVaOeQX-E=s0) |
 | 🛡️ **IONIC National CTF** | CyberSecurity | 2025 | National CTF Competitor | [📄](https://lh3.googleusercontent.com/d/1fLg_vFmMiQdtb4p40geOrbj0sp_p4AXA=s0) |
-
----
-
-### 📜 Certificates
-
-| # | Event | Year | Link |
-|:---:|:---|:---:|:---:|
-| 1 | 🥈 **LKS Kabupaten Jepara** — ITNSA Juara 2 | 2026 | [📄](https://lh3.googleusercontent.com/d/1xDfpyip_FWbTjWvUGuxJxz2mpq9w_oW) |
-| 2 | 🛡️ **IONIC 2025** — CTF Competition | 2025 | [📄](https://lh3.googleusercontent.com/d/1fLg_vFmMiQdtb4p40geOrbj0sp_p4AXA=s0) |
-| 3 | 🛡️ **Techcomfest 2026** — CTF Competition | 2026 | [📄](https://lh3.googleusercontent.com/d/1QkYDBvEaBy8hkUpGU7KyJ_fkVaOeQX-E=s0) |
-| 4 | 🛡️ **Waskita Manunggal Siber 2026** — CTF Competition | 2026 | [📄](https://lh3.googleusercontent.com/d/1H470IBtNMu4JgPRgKJB3kFM7swo0jiiH=s0) |
-| 5 | 🛡️ **POLRI CTF** — CTF Competition | 2026 | [📄](https://lh3.googleusercontent.com/d/14eNfeFAjUyayV-pCRbnhq9-FN4vm90vN=s0) |
-| 6 | 🎮 **Juara Harapan Kartinians** — Mobile Legends | 2026 | [📄](https://drive.google.com/file/d/1KfGw5owtokP4L2718-UZf4qV6Rg74u_i/view) |
+| 🛡️ **Techcomfest CTF** | CyberSecurity | 2026 | CTF Competitor | [📄](https://lh3.googleusercontent.com/d/1QkYDBvEaBy8hkUpGU7KyJ_fkVaOeQX-E=s0) |
+| 🛡️ **Waskita Manunggal Siber** | CyberSecurity | 2026 | National Cyber Defense Competitor | [📄](https://lh3.googleusercontent.com/d/1H470IBtNMu4JgPRgKJB3kFM7swo0jiiH=s0) |
+| 🛡️ **POLRI CTF** | CyberSecurity | 2026 | CTF Competitor | [📄](https://lh3.googleusercontent.com/d/14eNfeFAjUyayV-pCRbnhq9-FN4vm90vN=s0) |
+| 🎮 **Juara Harapan Kartinians** | Gaming | 2026 | Mobile Legends Tournament | [📄](https://drive.google.com/file/d/1KfGw5owtokP4L2718-UZf4qV6Rg74u_i/view) |
 
 ---
 
