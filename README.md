@@ -61,9 +61,7 @@
 | Kernel | Device | Base | Status |
 |:---|:---|:---:|:---:|
 | [**Phrolova**](https://github.com/naidrahiqa/phrolova_kernel_xiaomi_selene) | Xiaomi Redmi 10 (Selene) | Vendor R | ✅ Maintained |
-| [**Mochi**](https://github.com/naidrahiqa/mochi_kernel_xiaomi_selene) | Xiaomi Redmi 10 (Selene) | T Vendor | ✅ Maintained |
 | [**Pollux**](https://github.com/naidrahiqa/pollux_kernel_xiaomi_fire) | Redmi 12 Fire T/U | MIUI 14 & HyperOS 1 | ✅ Maintained |
-| [**Epitaph GKI**](https://github.com/naidrahiqa/epitaph_kernel_xiaomi_fire_GKI) | Redmi 12 Fire | GKI 6.6 | ✅ Maintained |
 
 ---
 
