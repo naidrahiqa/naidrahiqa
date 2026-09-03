@@ -119,28 +119,12 @@
     <img src="https://img.shields.io/badge/Instagram-@naidrahiqa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;
-  <a href="https://threads.net/@naidrahiqa">
-    <img src="https://img.shields.io/badge/Threads-@naidrahiqa-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
-  </a>
-  &nbsp;
-  <a href="https://discord.com/users/naidrahiqa">
-    <img src="https://img.shields.io/badge/Discord-@naidrahiqa-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  &nbsp;
   <a href="https://linkedin.com/in/naidrahiqa">
     <img src="https://img.shields.io/badge/LinkedIn-naidrahiqa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://github.com/naidrahiqa">
-    <img src="https://img.shields.io/badge/GitHub-naidrahiqa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
   <a href="https://t.me/naidrahiqa">
     <img src="https://img.shields.io/badge/Telegram-@naidrahiqa-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  &nbsp;
-  <a href="https://wa.me/62895412664654">
-    <img src="https://img.shields.io/badge/WhatsApp-+62%20895-4126-64654-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 
   <br/><br/>
