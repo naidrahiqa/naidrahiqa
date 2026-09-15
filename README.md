@@ -47,12 +47,17 @@
 | Project | Description | Tech Stack |
 |:---|:---|:---|
 | [**mtk-unbrick**](https://github.com/naidrahiqa/mtk-unbrick) | One-click unbrick tool for Xiaomi MTK devices via BROM mode | Python, USB |
-| [**Aqua Safe Monitor**](https://github.com/naidrahiqa/aqua-safe-monitor) | Water telemetry monitoring WebApp for OPSI 2026 | Next.js, IoT |
-| [**KTI Dashboard**](https://github.com/naidrahiqa/kti-dashboard) | Absensi, manajemen kas & keaktifan KTI | Next.js, Google Sheets |
-| [**Compress Tool**](https://github.com/naidrahiqa/compress_tool) | Batch image & video compressor | Python, Tkinter, FFmpeg |
-| [**RK R75 Recovery**](https://github.com/naidrahiqa/rk-r75-wired-recovery) | Flash dead RK R75 keyboard via ST-Link SWD | Python, pyocd |
+| [**mtk-flasher**](https://github.com/naidrahiqa/mtk-flasher) | MTK flashing toolkit for Xiaomi/Redmi (Linux) | Shell |
+| [**Aqua Safe Monitor**](https://github.com/naidrahiqa/aqua-safe-monitor) | Water telemetry monitoring WebApp for OPSI 2026 | TypeScript, IoT |
+| [**Aqua Safe Monitor Android**](https://github.com/naidrahiqa/aqua-safe-monitor-android) | Monitoring App Aqua Safe Monitor - Android Version | Kotlin |
+| [**KTI Dashboard**](https://github.com/naidrahiqa/kti-dashboard) | Absensi, manajemen kas & keaktifan KTI | TypeScript, Google Sheets |
+| [**RK R75 Recovery**](https://github.com/naidrahiqa/rk-r75-wired-recovery) | Flash dead RK R75 keyboard via ST-Link SWD | Python |
+| [**FetchVid**](https://github.com/naidrahiqa/FetchVid) | Batch downloader Reels/TikTok/Instagram | Go, Wails |
+| [**Catchido**](https://github.com/naidrahiqa/catchido) | Scraper foto idol KR/CN/JP dengan dedup & organizer | Python |
 | [**Reboisasi**](https://github.com/naidrahiqa/reboisasi) | Aplikasi reboisasi | JavaScript |
-| [**EndeavourOS Rice**](https://github.com/naidrahiqa/endeavouros-rice) | Hyprland + Material You + blur + SDDM sync | Hyprland, Wayland |
+| [**ScoreWave**](https://github.com/naidrahiqa/ScoreWave) | #juaravibecoding | TypeScript |
+| [**EndeavourOS Rice**](https://github.com/naidrahiqa/endeavouros-rice) | Hyprland + Material You + blur + SDDM sync | QML |
+| [**Spoof Fierce**](https://github.com/naidrahiqa/spoof-fierce) | Device spoofing & per-game FPS unlock (KernelSU Next module) | C++ |
 
 ---
 
@@ -60,8 +65,9 @@
 
 | Kernel | Device | Base | Status |
 |:---|:---|:---:|:---:|
-| [**Phrolova**](https://github.com/naidrahiqa/phrolova_kernel_xiaomi_selene) | Xiaomi Redmi 10 (Selene) | Vendor R | ✅ Maintained |
-| [**Pollux**](https://github.com/naidrahiqa/pollux_kernel_xiaomi_fire) | Redmi 12 Fire T/U | MIUI 14 & HyperOS 1 | ✅ Maintained |
+| [**android_kernel_xiaomi_selene**](https://github.com/naidrahiqa/android_kernel_xiaomi_selene) | Xiaomi Redmi 10 (Selene) | Vendor R | ✅ Maintained |
+| [**android_kernel_xiaomi_fire**](https://github.com/naidrahiqa/android_kernel_xiaomi_fire) | Redmi 12 Fire T/U | MIUI 14 & HyperOS 1 | ✅ Maintained |
+| [**android_kernel_xiaomi_mt6768-k419**](https://github.com/naidrahiqa/android_kernel_xiaomi_mt6768-k419) | MT6768 Common | K419 | 🔨 In Progress |
 
 ---
 
