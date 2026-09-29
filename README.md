@@ -110,8 +110,4 @@
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naidrahiqa&theme=tokyonight)
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naidrahiqa&theme=tokyonight)
 
-<br/>
-
-![Contribution](https://ghchart.rshah.org/naidrahiqa)
-
 </div>
