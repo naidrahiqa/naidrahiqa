@@ -27,24 +27,6 @@ TKJ Student · Android Kernel Developer · IoT · CyberSecurity
 
 ---
 
-## Projects
-
-| Project | Description | Stack |
-|:---|:---|:---|
-| [mtk-unbrick](https://github.com/naidrahiqa/mtk-unbrick) | Unbrick Xiaomi MTK via BROM mode | Python |
-| [mtk-flasher](https://github.com/naidrahiqa/mtk-flasher) | MTK flashing toolkit (Linux) | Shell |
-| [spoof-fierce](https://github.com/naidrahiqa/spoof-fierce) | Device spoofing & FPS unlock (KernelSU Next) | C++ |
-| [FetchVid](https://github.com/naidrahiqa/FetchVid) | Batch downloader Reels/TikTok/Instagram | Go |
-| [cachyos-rice](https://github.com/naidrahiqa/cachyos-rice) | Hyprland + Material You + GRUB ricing | QML |
-| [kasirin_aja](https://github.com/naidrahiqa/kasirin_aja) | POS web manajemen produk & transaksi | Laravel |
-| [aqua-safe-monitor](https://github.com/naidrahiqa/aqua-safe-monitor) | Water telemetry monitoring (OPSI 2026) | TypeScript |
-| [kti-dashboard](https://github.com/naidrahiqa/kti-dashboard) | Absensi & manajemen kas KTI | TypeScript |
-| [rk-r75-wired-recovery](https://github.com/naidrahiqa/rk-r75-wired-recovery) | Flash dead RK R75 keyboard via ST-Link | Python |
-| [catchido](https://github.com/naidrahiqa/catchido) | Scraper foto idol KR/CN/JP | Python |
-| [gitload-dump](https://github.com/naidrahiqa/gitload-dump) | OTA payload dumper via GitHub Actions | Shell |
-
----
-
 ## Kernels
 
 | Kernel | Device | Base | Status |
