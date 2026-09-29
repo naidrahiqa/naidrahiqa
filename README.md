@@ -56,7 +56,9 @@
 | [**Catchido**](https://github.com/naidrahiqa/catchido) | Scraper foto idol KR/CN/JP dengan dedup & organizer | Python |
 | [**Reboisasi**](https://github.com/naidrahiqa/reboisasi) | Aplikasi reboisasi | JavaScript |
 | [**ScoreWave**](https://github.com/naidrahiqa/ScoreWave) | #juaravibecoding | TypeScript |
-| [**EndeavourOS Rice**](https://github.com/naidrahiqa/endeavouros-rice) | Hyprland + Material You + blur + SDDM sync | QML |
+| [**Kasirin Aja**](https://github.com/naidrahiqa/kasirin_aja) | POS web untuk manajemen produk & transaksi kasir | Laravel |
+| [**Gitload Dump**](https://github.com/naidrahiqa/gitload-dump) | OTA payload dumper via GitHub Actions | Shell |
+| [**CachyOS Rice**](https://github.com/naidrahiqa/cachyos-rice) | Caelestia rice: Hyprland + Material You + GRUB + lockscreen | QML |
 | [**Spoof Fierce**](https://github.com/naidrahiqa/spoof-fierce) | Device spoofing & per-game FPS unlock (KernelSU Next module) | C++ |
 
 ---
