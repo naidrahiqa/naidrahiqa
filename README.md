@@ -69,7 +69,7 @@
 |:---|:---|:---:|:---:|
 | [**android_kernel_xiaomi_selene**](https://github.com/naidrahiqa/android_kernel_xiaomi_selene) | Xiaomi Redmi 10 (Selene) | Vendor R | ✅ Maintained |
 | [**android_kernel_xiaomi_fire**](https://github.com/naidrahiqa/android_kernel_xiaomi_fire) | Redmi 12 Fire T/U | MIUI 14 & HyperOS 1 | ✅ Maintained |
-| [**android_kernel_xiaomi_mt6768-k419**](https://github.com/naidrahiqa/android_kernel_xiaomi_mt6768-k419) | MT6768 Common | K419 | 🔨 In Progress |
+| [**android_kernel_xiaomi_mt6768-k419**](https://github.com/naidrahiqa/android_kernel_xiaomi_mt6768-k419) | MT6768 Common | K419 | ✅ Booting |
 
 ---
 
